@@ -18,8 +18,3 @@ Restaurant Data Analysis using Python as part of the Cognifyz Technologies Data 
 
 ## Key Insights
 
-## Screenshots
-
-## How to Run
-
-## Author
